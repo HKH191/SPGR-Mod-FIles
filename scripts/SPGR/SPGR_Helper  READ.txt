@@ -1,0 +1,1 @@
+SPGR_Helper is not required for SGPR, but when you want to create a new garage, if you press J you will get notification showing Coords and Headling, when in vehicle or on foot
